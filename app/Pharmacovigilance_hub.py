@@ -76,9 +76,9 @@ def analysis_layout(df_diseases, df_drugs, df_adverse_effects = None):
             st.dataframe(results_faers.rename(columns=lambda x: x.capitalize()), use_container_width=True)
 
 # Loading the example DataFrames
-df_example_diseases = load_example_dataframe('tipo_tumores.csv')
-df_example_drugs = load_example_dataframe('farmacos.csv')
-df_example_adverse_effects = load_example_dataframe('efectos_adversos.csv')
+df_example_diseases = load_example_dataframe('tumors.csv')
+df_example_drugs = load_example_dataframe('drugs.csv')
+df_example_adverse_effects = load_example_dataframe('adverse_effects.csv')
 
 
 # Sidebar to upload CSV files
