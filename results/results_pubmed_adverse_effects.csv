@@ -1,0 +1,129 @@
+adverse effect,drug,results
+sarcopenia,pembrolizumab,14
+sarcopenia,osimertinib,0
+sarcopenia,nivolumab,18
+sarcopenia,abemaciclib,1
+sarcopenia,emtansine trastuzumab,0
+sarcopenia,pertuzumab,2
+sarcopenia,panitumumab,1
+sarcopenia,alectinib,1
+sarcopenia,dabrafenib,1
+sarcopenia,niraparib,0
+sarcopenia,trastuzumab,4
+sarcopenia,cabozantinib,2
+sarcopenia,deruxtecan trastuzumab,0
+sarcopenia,ramucirumab,1
+sarcopenia,atezolizumab,8
+sarcopenia,bevacizumab,19
+sarcopenia,olaparib,0
+sarcopenia,trametinib,2
+sarcopenia,ribociclib,1
+sarcopenia,durvalumab,1
+sarcopenia,lenvatinib,29
+sarcopenia,palbociclib,2
+sarcopenia,trifluridine tipiracil,4
+sarcopenia,ipilimumab,5
+sarcopenia,pazopanib,0
+sarcopenia,crizotinib,0
+sarcopenia,trabectedin,1
+sarcopenia,avelumab,1
+sarcopenia,lorlatinib,0
+sarcopenia,enzalutamide,3
+sarcopenia,afatinib,3
+sarcopenia,capecitabine,14
+sarcopenia,cetuximab,8
+sarcopenia,paclitaxel albumin,13
+sarcopenia,aflibercept,0
+sarcopenia,sacituzumab govitecan,0
+sarcopenia,eribulin,0
+sarcopenia,paclitaxel,26
+sarcopenia,sodium chloride,4
+sarcopenia,encorafenib,0
+sarcopenia,everolimus,6
+sarcopenia,vinorelbine,1
+sarcopenia,pemetrexed,1
+sarcopenia,binimetinib,0
+sarcopenia,carboplatin,18
+sarcopenia,abiraterone,6
+sarcopenia,denosumab,33
+sarcopenia,everolimus,6
+sarcopenia,filgrastim,0
+sarcopenia,fluorouracil,51
+sarcopenia,doxorubicin,34
+sarcopenia,gemcitabine,38
+sarcopenia,regorafenib,6
+sarcopenia,selpercatinib,0
+sarcopenia,remdesivir,0
+sarcopenia,enoxaparin,0
+sarcopenia,irinotecan,13
+sarcopenia,nintedanib,0
+sarcopenia,plerixafor,0
+sarcopenia,alpelisib,1
+sarcopenia,rucaparib,0
+sarcopenia,temozolomide,1
+sarcopenia,oxaliplatin,31
+sarcopenia,sotorasib,0
+dysphagia,pembrolizumab,35
+dysphagia,osimertinib,3
+dysphagia,nivolumab,37
+dysphagia,abemaciclib,0
+dysphagia,emtansine trastuzumab,0
+dysphagia,pertuzumab,1
+dysphagia,panitumumab,7
+dysphagia,alectinib,3
+dysphagia,dabrafenib,7
+dysphagia,niraparib,0
+dysphagia,trastuzumab,12
+dysphagia,cabozantinib,2
+dysphagia,deruxtecan trastuzumab,0
+dysphagia,ramucirumab,3
+dysphagia,atezolizumab,6
+dysphagia,bevacizumab,21
+dysphagia,olaparib,0
+dysphagia,trametinib,8
+dysphagia,ribociclib,0
+dysphagia,durvalumab,7
+dysphagia,lenvatinib,9
+dysphagia,palbociclib,2
+dysphagia,trifluridine tipiracil,0
+dysphagia,ipilimumab,16
+dysphagia,pazopanib,5
+dysphagia,crizotinib,4
+dysphagia,trabectedin,0
+dysphagia,avelumab,4
+dysphagia,lorlatinib,2
+dysphagia,enzalutamide,2
+dysphagia,afatinib,3
+dysphagia,capecitabine,29
+dysphagia,cetuximab,62
+dysphagia,paclitaxel albumin,8
+dysphagia,aflibercept,0
+dysphagia,sacituzumab govitecan,0
+dysphagia,eribulin,0
+dysphagia,paclitaxel,117
+dysphagia,sodium chloride,72
+dysphagia,encorafenib,0
+dysphagia,everolimus,8
+dysphagia,vinorelbine,14
+dysphagia,pemetrexed,9
+dysphagia,binimetinib,0
+dysphagia,carboplatin,119
+dysphagia,abiraterone,3
+dysphagia,denosumab,10
+dysphagia,everolimus,8
+dysphagia,filgrastim,2
+dysphagia,fluorouracil,331
+dysphagia,doxorubicin,89
+dysphagia,gemcitabine,25
+dysphagia,regorafenib,0
+dysphagia,selpercatinib,2
+dysphagia,remdesivir,3
+dysphagia,enoxaparin,3
+dysphagia,irinotecan,24
+dysphagia,nintedanib,10
+dysphagia,plerixafor,0
+dysphagia,alpelisib,2
+dysphagia,rucaparib,0
+dysphagia,temozolomide,4
+dysphagia,oxaliplatin,39
+dysphagia,sotorasib,1

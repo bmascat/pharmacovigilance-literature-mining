@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2025-02-10"
+  },
+  "results": [
+    {
+      "term": "DEATH",
+      "count": 3886
+    },
+    {
+      "term": "MALIGNANT NEOPLASM PROGRESSION",
+      "count": 3558
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 2991
+    },
+    {
+      "term": "COLITIS",
+      "count": 2236
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 2185
+    },
+    {
+      "term": "PYREXIA",
+      "count": 1959
+    },
+    {
+      "term": "RASH",
+      "count": 1706
+    },
+    {
+      "term": "FATIGUE",
+      "count": 1610
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 1349
+    },
+    {
+      "term": "NAUSEA",
+      "count": 1309
+    },
+    {
+      "term": "HYPOPHYSITIS",
+      "count": 1048
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 1037
+    },
+    {
+      "term": "VOMITING",
+      "count": 1019
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 975
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 928
+    },
+    {
+      "term": "PNEUMONITIS",
+      "count": 916
+    },
+    {
+      "term": "IMMUNE-MEDIATED ENTEROCOLITIS",
+      "count": 898
+    },
+    {
+      "term": "ADVERSE EVENT",
+      "count": 893
+    },
+    {
+      "term": "ADRENAL INSUFFICIENCY",
+      "count": 870
+    },
+    {
+      "term": "PRURITUS",
+      "count": 864
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 835
+    },
+    {
+      "term": "HEADACHE",
+      "count": 799
+    },
+    {
+      "term": "HYPOTHYROIDISM",
+      "count": 765
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 688
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 685
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 681
+    },
+    {
+      "term": "MALAISE",
+      "count": 647
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 638
+    },
+    {
+      "term": "SEPSIS",
+      "count": 629
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 629
+    },
+    {
+      "term": "HEPATITIS",
+      "count": 576
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 561
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 535
+    },
+    {
+      "term": "HYPERTHYROIDISM",
+      "count": 526
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 526
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 500
+    },
+    {
+      "term": "LIVER DISORDER",
+      "count": 498
+    },
+    {
+      "term": "HEPATIC FUNCTION ABNORMAL",
+      "count": 489
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 480
+    },
+    {
+      "term": "INTERSTITIAL LUNG DISEASE",
+      "count": 471
+    },
+    {
+      "term": "MYOCARDITIS",
+      "count": 461
+    },
+    {
+      "term": "PRESCRIBED OVERDOSE",
+      "count": 455
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 441
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 436
+    },
+    {
+      "term": "ALANINE AMINOTRANSFERASE INCREASED",
+      "count": 431
+    },
+    {
+      "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+      "count": 429
+    },
+    {
+      "term": "HYPOPITUITARISM",
+      "count": 423
+    },
+    {
+      "term": "PLEURAL EFFUSION",
+      "count": 423
+    },
+    {
+      "term": "PAIN",
+      "count": 408
+    },
+    {
+      "term": "IMMUNE-MEDIATED HEPATITIS",
+      "count": 401
+    },
+    {
+      "term": "COUGH",
+      "count": 394
+    },
+    {
+      "term": "THROMBOCYTOPENIA",
+      "count": 387
+    },
+    {
+      "term": "AUTOIMMUNE HEPATITIS",
+      "count": 384
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 380
+    },
+    {
+      "term": "PULMONARY EMBOLISM",
+      "count": 370
+    },
+    {
+      "term": "ENTEROCOLITIS",
+      "count": 356
+    },
+    {
+      "term": "DIABETIC KETOACIDOSIS",
+      "count": 346
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 330
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 329
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 323
+    },
+    {
+      "term": "THYROIDITIS",
+      "count": 319
+    },
+    {
+      "term": "RESPIRATORY FAILURE",
+      "count": 317
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 309
+    },
+    {
+      "term": "CHILLS",
+      "count": 308
+    },
+    {
+      "term": "CYTOKINE RELEASE SYNDROME",
+      "count": 308
+    },
+    {
+      "term": "ATRIAL FIBRILLATION",
+      "count": 305
+    },
+    {
+      "term": "METASTASES TO CENTRAL NERVOUS SYSTEM",
+      "count": 305
+    },
+    {
+      "term": "IMMUNE-MEDIATED HEPATIC DISORDER",
+      "count": 303
+    },
+    {
+      "term": "TYPE 1 DIABETES MELLITUS",
+      "count": 302
+    },
+    {
+      "term": "RASH MACULO-PAPULAR",
+      "count": 289
+    },
+    {
+      "term": "MYOSITIS",
+      "count": 284
+    },
+    {
+      "term": "HYPERGLYCAEMIA",
+      "count": 281
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 279
+    },
+    {
+      "term": "AUTOIMMUNE COLITIS",
+      "count": 277
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 275
+    },
+    {
+      "term": "FEBRILE NEUTROPENIA",
+      "count": 273
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 271
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 271
+    },
+    {
+      "term": "MYALGIA",
+      "count": 269
+    },
+    {
+      "term": "HYPOKALAEMIA",
+      "count": 268
+    },
+    {
+      "term": "NON-SMALL CELL LUNG CANCER",
+      "count": 262
+    },
+    {
+      "term": "AUTOIMMUNE DISORDER",
+      "count": 251
+    },
+    {
+      "term": "FALL",
+      "count": 246
+    },
+    {
+      "term": "HEPATOTOXICITY",
+      "count": 241
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 237
+    },
+    {
+      "term": "IMMUNE-MEDIATED LUNG DISEASE",
+      "count": 236
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 234
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 230
+    },
+    {
+      "term": "PANCREATITIS",
+      "count": 229
+    },
+    {
+      "term": "SEPTIC SHOCK",
+      "count": 227
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 224
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 220
+    },
+    {
+      "term": "BLOOD CREATININE INCREASED",
+      "count": 219
+    },
+    {
+      "term": "PLATELET COUNT DECREASED",
+      "count": 219
+    },
+    {
+      "term": "RASH PRURITIC",
+      "count": 218
+    },
+    {
+      "term": "IMMUNE-MEDIATED MYOCARDITIS",
+      "count": 215
+    },
+    {
+      "term": "LIPASE INCREASED",
+      "count": 214
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 213
+    },
+    {
+      "term": "THYROID DISORDER",
+      "count": 213
+    },
+    {
+      "term": "HOSPITALISATION",
+      "count": 211
+    }
+  ]
+}

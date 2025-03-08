@@ -8,7 +8,7 @@ This application performs a co-occurrence analysis on PubMed of two lists of ter
 
 - **Co-occurrence Analysis**: The application uses PubMed data to perform a co-occurrence analysis of disease and drug terms.
 
-![Co-occurrence Analysis](figures/pubmed_tipotumor_farmaco.png)
+![Co-occurrence Analysis](figures/pubmed_tumor_drug.png)
 
 
 - **Adverse Effects Extraction**: In addition to the co-occurrence analysis, the application extracts adverse effects from the provided list of drugs.
